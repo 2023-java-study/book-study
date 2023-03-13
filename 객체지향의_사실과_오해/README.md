@@ -10,7 +10,7 @@
 ## 학습 내용 포스팅 링크
 | 스터디 회차 | [김아영](https://github.com/Kim-AYoung) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: |
-| 1주차 |  |  | [1장](https://sh-hyun.tistory.com/80) |
+| 1주차 | [1장](https://velog.io/@onionlily123/1장.-협력하는-객체들의-공동체) |  | [1장](https://sh-hyun.tistory.com/80) |
 | 2주차 |  |  |  |
 | 3주차 |  |  |  |
 | 4주차 |  |  |  |
