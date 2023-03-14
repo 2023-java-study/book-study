@@ -1,10 +1,9 @@
-# 책 스터디
 ## 스터디 소개
-- 책을 읽고 기록, 토론하는 스터디
+책을 읽고 기록, 토론하는 스터디
 
 ## 책 목록
 ### 읽고 있는 책
-* [객체지향의 사실과 오해](https://github.com/2023-java-study/book-study/blob/main/객체지향의_사실과_오해)
+* [객체지향의 사실과 오해](https://github.com/2023-java-study/book-study/blob/main/객체지향의_사실과_오해) (2023.03 ~)
 
 ### 다 읽은 책
 * 
