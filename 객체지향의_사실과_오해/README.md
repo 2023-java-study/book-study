@@ -11,7 +11,7 @@
 | 스터디 회차 | [김아영](https://github.com/Kim-AYoung) | [정지은](https://github.com/ssstopeun) | [현상혁](https://github.com/gmelon) |
 | :---: | :---: | :---: | :---: |
 | 1주차 | [1장](https://velog.io/@onionlily123/1장.-협력하는-객체들의-공동체) |  | [1장](https://sh-hyun.tistory.com/80) |
-| 2주차 | [2장](https://velog.io/@onionlily123/2장.-이상한-나라의-객체) [3장](https://velog.io/@onionlily123/3장.-타입과-추상화) |  |  |
+| 2주차 | [2장](https://velog.io/@onionlily123/2장.-이상한-나라의-객체) [3장](https://velog.io/@onionlily123/3장.-타입과-추상화) |  | [2장](https://sh-hyun.tistory.com/85) [3장](https://sh-hyun.tistory.com/86) |
 | 3주차 |  |  |  |
 | 4주차 |  |  |  |
 | 5주차 |  |  |  |
