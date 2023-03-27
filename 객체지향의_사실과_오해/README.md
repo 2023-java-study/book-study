@@ -12,6 +12,6 @@
 | :---: | :---: | :---: | :---: |
 | 1주차 | [1장](https://velog.io/@onionlily123/1장.-협력하는-객체들의-공동체) |  | [1장](https://sh-hyun.tistory.com/80) |
 | 2주차 | [2장](https://velog.io/@onionlily123/2장.-이상한-나라의-객체) [3장](https://velog.io/@onionlily123/3장.-타입과-추상화) | [2장](https://righteous-galette-116.notion.site/02-b0449d1934a54a499351e64e582c3b3f) [3장](https://righteous-galette-116.notion.site/03-3704b788ae774c7b85f7d3ef5272a170) | [2장](https://sh-hyun.tistory.com/85) [3장](https://sh-hyun.tistory.com/86) |
-| 3주차 | [4장](https://velog.io/@onionlily123/4장.-역할-책임-협력) [5장](https://velog.io/@onionlily123/5장.-책임과-메시지) |  | [4장](https://sh-hyun.tistory.com/89) [5장](https://sh-hyun.tistory.com/90) |
+| 3주차 | [4장](https://velog.io/@onionlily123/4장.-역할-책임-협력) [5장](https://velog.io/@onionlily123/5장.-책임과-메시지) | [4장](https://righteous-galette-116.notion.site/04-c94a05e26b5844309b2bdb80be75a397) [5장](https://righteous-galette-116.notion.site/05-45ed88f9c4244036b9ae1b968b4c6e83) | [4장](https://sh-hyun.tistory.com/89) [5장](https://sh-hyun.tistory.com/90) |
 | 4주차 |  |  |  |
 | 5주차 |  |  |  |
