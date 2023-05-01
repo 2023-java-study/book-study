@@ -22,7 +22,7 @@
 | 아이템 번호 | 정리 링크 |
 | :---: | :---: |
 | 아이템 1 | [링크](https://sh-hyun.tistory.com/100) |
-| 아이템 2 |  |
+| 아이템 2 | [링크](https://righteous-galette-116.notion.site/Item-2-d08e1b3581da4926a84a473164a2af9b) |
 | 아이템 3 |  |
 | 아이템 4 |  |
 | 아이템 5 |  |
