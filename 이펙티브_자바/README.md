@@ -29,7 +29,7 @@
 | 아이템 4 | [링크](https://sh-hyun.tistory.com/104) |
 | 아이템 5 |  |
 | 아이템 6 | [링크](https://velog.io/@onionlily123/아이템6.-불필요한-객체-생성을-피하라) |
-| 아이템 7 |  |
+| 아이템 7 | [링크](https://sh-hyun.tistory.com/105) |
 | 아이템 8 |  |
 | 아이템 9 |  |
 | 아이템 10 |  |
