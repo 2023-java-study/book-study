@@ -27,7 +27,7 @@
 | 아이템 2 | [링크](https://righteous-galette-116.notion.site/Item-2-d08e1b3581da4926a84a473164a2af9b) |
 | 아이템 3 | [링크](https://velog.io/@onionlily123/아이템3.-private-생성자나-열거-타입으로-싱글턴임을-보증하라-28xt6djx) |
 | 아이템 4 | [링크](https://sh-hyun.tistory.com/104) |
-| 아이템 5 |  |
+| 아이템 5 | [링크](https://righteous-galette-116.notion.site/Item-5-73fe936c2b6a405ab0f890505eb170fe) |
 | 아이템 6 | [링크](https://velog.io/@onionlily123/아이템6.-불필요한-객체-생성을-피하라) |
 | 아이템 7 | [링크](https://sh-hyun.tistory.com/105) |
 | 아이템 8 |  |
