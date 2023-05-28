@@ -32,7 +32,7 @@
 | 아이템 6 | [링크](https://velog.io/@onionlily123/아이템6.-불필요한-객체-생성을-피하라) |
 | 아이템 7 | [링크](https://sh-hyun.tistory.com/105) |
 | 아이템 8 | [링크](https://righteous-galette-116.notion.site/Item-8-finalizer-cleaner-560de54aedf34859be2eef2ab520da8e) |
-| 아이템 9 |  |
+| 아이템 9 | [링크](https://velog.io/@nuh__d/item9) |
 | 아이템 10 |  |
 | 아이템 11 |  |
 | 아이템 12 |  |
