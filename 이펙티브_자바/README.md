@@ -34,5 +34,5 @@
 | 아이템 8 | [링크](https://righteous-galette-116.notion.site/Item-8-finalizer-cleaner-560de54aedf34859be2eef2ab520da8e) |
 | 아이템 9 | [링크](https://velog.io/@nuh__d/item9) |
 | 아이템 10 |  |
-| 아이템 11 |  |
+| 아이템 11 | [링크](https://www.notion.so/Item-11-equals-hashCode-b2f6950c4a764cf68552e23ac26004f2?pvs=4) |
 | 아이템 12 |  |
