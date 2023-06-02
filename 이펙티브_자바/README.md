@@ -36,8 +36,8 @@
 | 아이템 9 | [링크](https://velog.io/@nuh__d/item9) |
 | 아이템 10 |  |
 | 아이템 11 | [링크](https://www.notion.so/Item-11-equals-hashCode-b2f6950c4a764cf68552e23ac26004f2?pvs=4) |
-| 아이템 12 |  [링크](https://velog.io/@nuh__d/item-12-toString%EC%9D%84-%ED%95%AD%EC%83%81-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)|
+| 아이템 12 | [링크](https://velog.io/@nuh__d/item-12-toString%EC%9D%84-%ED%95%AD%EC%83%81-%EC%9E%AC%EC%A0%95%EC%9D%98%ED%95%98%EB%9D%BC)|
 | 아이템 13 |  |
 | 아이템 14 |  |
-| 아이템 15 |  |
+| 아이템 15 | [링크](https://velog.io/@nuh__d/item-15-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%A9%A4%EB%B2%84%EC%9D%98-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC) |
 | 아이템 16 |  |
