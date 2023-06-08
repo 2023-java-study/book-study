@@ -42,3 +42,12 @@
 | 아이템 14 | [링크](https://www.notion.so/Item-14-Comparable-a754ad4cd2a34d58a9cfbadd54ebcc4b?pvs=4) |
 | 아이템 15 | [링크](https://velog.io/@nuh__d/item-15-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EB%A9%A4%EB%B2%84%EC%9D%98-%EC%A0%91%EA%B7%BC-%EA%B6%8C%ED%95%9C%EC%9D%84-%EC%B5%9C%EC%86%8C%ED%99%94%ED%95%98%EB%9D%BC) |
 | 아이템 16 |  |
+| 아이템 17 |  |
+| 아이템 18 |  |
+| 아이템 19 |  |
+| 아이템 20 |  |
+| 아이템 21 |  |
+| 아이템 22 |  |
+| 아이템 23 |  |
+| 아이템 24 |  |
+| 아이템 25 |  |
