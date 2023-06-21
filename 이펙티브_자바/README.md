@@ -50,7 +50,7 @@
 | 아이템 21 |  |
 | 아이템 22 | [링크](https://sh-hyun.tistory.com/114) |
 | 아이템 23 | [링크](https://sh-hyun.tistory.com/115) |
-| 아이템 24 |  |
+| 아이템 24 | [링크](https://velog.io/@nuh__d/item-24) |
 | 아이템 25 |  |
 | 아이템 26 |  |
 | 아이템 27 |  |
