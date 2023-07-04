@@ -48,7 +48,7 @@
 | 아이템 17 | [링크](https://www.notion.so/Item-17-8cffdc88132a4a7e8fa27cf877945279?pvs=4) |
 | 아이템 18 | [링크](https://velog.io/@nuh__d/%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC) |
 | 아이템 19 | [링크](https://sh-hyun.tistory.com/113) |
-| 아이템 20 |  |
+| 아이템 20 | [링크](https://www.notion.so/Item-20-f6705955c75148c1a34eb21a0c96d5f5?pvs=4) |
 | 아이템 21 |  |
 | 아이템 22 | [링크](https://sh-hyun.tistory.com/114) |
 | 아이템 23 | [링크](https://sh-hyun.tistory.com/115) |
