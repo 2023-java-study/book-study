@@ -60,7 +60,7 @@
 | 아이템 26 | [링크](https://righteous-galette-116.notion.site/Item-26-8c4ce86749c4436cabfd775ce942bcab?pvs=4) |
 | 아이템 27 | [링크](https://velog.io/@nuh__d/item-27-%EB%B9%84%EA%B2%80%EC%82%AC-%EA%B2%BD%EA%B3%A0%EB%A5%BC-%EC%A0%9C%EA%B1%B0%ED%95%98%EB%9D%BC) |
 | 아이템 28 |  |
-| 아이템 29 |  |
+| 아이템 29 |  [링크](https://velog.io/@nuh__d/item-29-%EC%9D%B4%EC%99%95%EC%9D%B4%EB%A9%B4-%EC%A0%9C%EB%84%A4%EB%A6%AD-%ED%83%80%EC%9E%85%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EB%9D%BC)|
 | 아이템 30 |  |
 | 아이템 31 |  |
 | 아이템 32 |  |
