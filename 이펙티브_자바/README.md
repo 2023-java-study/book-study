@@ -75,7 +75,7 @@
 | 아이템 34 | [링크](https://velog.io/@nuh__d/item-34-int-%EC%83%81%EC%88%98-%EB%8C%80%EC%8B%A0-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC) |
 | 아이템 35 |  |
 | 아이템 36 | [링크](https://righteous-galette-116.notion.site/Item-36-EnumSet-f727c885280647c09fff99c03b2b9430?pvs=4) |
-| 아이템 37 |  |
+| 아이템 37 | [링크](https://velog.io/@nuh__d/item-37) |
 | 아이템 38 |  |
 | 아이템 39 |  |
 | 아이템 40 |  |
