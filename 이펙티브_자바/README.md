@@ -80,4 +80,7 @@
 | 아이템 39 |  |
 | 아이템 40 |  |
 | 아이템 41 | [링크](https://righteous-galette-116.notion.site/Item-41-5c720a222e244da3b833857f9c197a9a?pvs=4) |
+| 아이템 42 |  |
+| 아이템 43 | [링크](https://righteous-galette-116.notion.site/Item-43-1ffa465a903c49d891cce0211645e407?pvs=4) |
+
 
