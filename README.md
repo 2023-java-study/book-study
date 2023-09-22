@@ -4,6 +4,7 @@
 ## 책 목록
 ### 읽고 있는 책
 * [이펙티브 자바](https://github.com/2023-java-study/book-study/blob/main/이펙티브_자바) (2023.04 ~)
+* [Real MySQL 8.0](https://github.com/2023-java-study/book-study/blob/main/Real_MySQL_8_0) (2023.09 ~)
 
 ### 다 읽은 책
 * [객체지향의 사실과 오해](https://github.com/2023-java-study/book-study/blob/main/객체지향의_사실과_오해) (2023.03 ~ 2023.04)
